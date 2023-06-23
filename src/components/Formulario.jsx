@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */ // TODO:
 
 import { useState, useEffect } from "react";
-import Error from "./error";
+import Error from "./Error";
 
 const Formulario = ({ pacientes, setPacientes, paciente, setPaciente }) => {
   //Inicializar las variables
